@@ -40,4 +40,3 @@ Lists the information about purchases.
 - Bootstrap 4
 - jQuery
 - Ajax
-![image](https://user-images.githubusercontent.com/55648552/188443092-7b13a3af-fac1-46f0-b6e4-9f2dabe44e5b.png)
