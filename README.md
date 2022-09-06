@@ -5,8 +5,15 @@ It is a web-based inventory management software based on Flask and SQLite3, also
 ![188475845-a1941871-98c1-4449-8c6b-1f39c48fbb08](https://user-images.githubusercontent.com/55648552/188476791-a41e8e6c-2721-40b3-b088-3ebe0aaf8832.gif)
 
 
-
-
+#Stack
+Flask
+SQLite3
+CS50
+Bootstrap 4
+jQuery
+Ajax
+Charts.js
+Datatables.js
 
 ## Dashboard
 This page contains charts and information based on data. In the upper section, four cards contain the total number of products, total order, total purchases and the number of products that need to be purchased soon.
@@ -36,11 +43,6 @@ Lists Orders
 Lists the information about purchases.
 
 
-# Other features
+# features
 - Change Password
 - Fully Responsive
-- Datatables.js
-- Charts.js
-- Bootstrap 4
-- jQuery
-- Ajax
